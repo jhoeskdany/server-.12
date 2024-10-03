@@ -1,0 +1,92 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727914648867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+often-pipe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727914663961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+often-pipe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727914667018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+often-pipe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727914670099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+often-pipe.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727914673159 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1727914676239 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1727914679314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727914694417 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1727914697483 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1727914700602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1727914703662 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1727914706726 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1727914709783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1727914712847 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727914727946 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+maps-updated.gl.at.ply.gg:37855 => 127.0.0.1:37855 (proto: Udp, port count: 1)
