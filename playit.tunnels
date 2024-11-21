@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "teaching-db.gl.joinmc.link",
-          "assigned_srv": "teaching-db.gl.joinmc.link",
+          "assigned_domain": "it-officers.gl.joinmc.link",
+          "assigned_srv": "it-officers.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "074a5f49-7781-478a-a0bc-edbb24eec93f",
+          "id": "6ce64966-fa79-430d-bea5-c6e33f606c75",
           "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 64556,
-          "port_start": 64555,
+          "port_end": 62248,
+          "port_start": 62247,
           "region": "global",
           "static_ip4": "147.185.221.23",
           "tunnel_ip": "2602:fbaf:0:1::17"
         },
         "status": "allocated"
       },
-      "created_at": "2024-11-20T01:57:09.231228Z",
+      "created_at": "2024-11-20T09:06:39.767527Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "8888e926-9548-4ecc-a82c-1de7d520a817",
+      "id": "dac5fecf-c7f1-437c-90ad-e9d3e3d77c5f",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "2cbb7e5c-825c-4e35-96e9-54275d2c117d",
-          "agent_name": "from-key-04ca",
+          "agent_id": "7f5450ca-c9a7-4668-99e6-19838e08de04",
+          "agent_name": "from-key-e8c9",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -60,7 +60,7 @@
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "d02ea17c-d393-4259-8c53-4432fed92793",
+          "id": "ead407b4-8c99-44f1-9e24-099816a12078",
           "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
           "port_end": 3807,
@@ -71,17 +71,17 @@
         },
         "status": "allocated"
       },
-      "created_at": "2024-11-20T01:58:23.563562Z",
+      "created_at": "2024-11-20T09:07:38.709226Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "22203214-65ad-4896-a252-6c0a885b1f2e",
+      "id": "8f577e45-83bb-4759-837c-afa451c7a39c",
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "2cbb7e5c-825c-4e35-96e9-54275d2c117d",
-          "agent_name": "from-key-04ca",
+          "agent_id": "7f5450ca-c9a7-4668-99e6-19838e08de04",
+          "agent_name": "from-key-e8c9",
           "local_ip": "127.0.0.1",
           "local_port": 3806
         },
